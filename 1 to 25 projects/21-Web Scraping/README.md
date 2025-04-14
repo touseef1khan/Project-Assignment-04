@@ -66,4 +66,4 @@ Extracts image URLs from the provided webpage and saves them to a CSV file.
 
 ## Author
 
-Developed by Humaiza. 🚀
+Developed by Touseef. 🚀
