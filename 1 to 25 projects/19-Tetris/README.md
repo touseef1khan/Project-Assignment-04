@@ -1,6 +1,6 @@
 # Tetris Game
 
-## Created by Humaiza
+## Created by Touseef
 
 This is a Python-based Tetris game developed using the `pygame` library. It includes various features such as smooth controls, a hold piece mechanism, and automatic line clearing.
 
