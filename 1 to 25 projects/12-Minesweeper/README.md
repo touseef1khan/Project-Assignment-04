@@ -1,4 +1,4 @@
-# Minesweeper Game by Humaiza
+# Minesweeper Game by Touseef
 
 This is a command-line implementation of the classic Minesweeper game built in Python.
 
