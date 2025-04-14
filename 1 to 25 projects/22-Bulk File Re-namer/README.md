@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script (`app.py`) is developed by **Humaiza** and allows users to **bulk rename files** in a specified directory using various customization options such as adding prefixes, suffixes, replacing text, and changing letter case.
+This Python script (`app.py`) is developed by **Touseef** and allows users to **bulk rename files** in a specified directory using various customization options such as adding prefixes, suffixes, replacing text, and changing letter case.
 
 ## Features
 
@@ -113,4 +113,4 @@ This project is open-source and free to use.
 
 ---
 
-🚀 *Happy Renaming! - Humaiza*
+🚀 *Happy Renaming! - Touseef*
